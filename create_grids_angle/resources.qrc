@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/create_grids_angle" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
